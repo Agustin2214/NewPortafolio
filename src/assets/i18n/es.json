@@ -1,0 +1,91 @@
+{
+  "GENERAL": {
+    "IDIOMA_INGLES": "Ingles",
+    "IDIOMA_ESPANOL": "Español"
+  },
+  "HEADER": {
+    "INICIO": "Inicio",
+    "CONTACTO": "Descargar CV",
+    "SOBRE_MI": "Sobre mí",
+    "RECOMENDACIONES": "FUTURO",
+    "PROYECTOS": "Proyectos"
+  },
+  "MAIN_VIEW": {
+    "TITULO": "Hey, Soy Agustin Ibañez",
+    "DESCRIPCION": "Desarrollador Full stack, con conomientos en herramientas de DevOps"
+  },
+  "ABOUT_ME": {
+    "TITULO": "Sobre mí",
+    "DESCRIPCION": "Conoce mis habilidades técnicas y los valores que me caracterizan.",
+    "PARAGRAFO_1": "Soy un desarrollador fullStack con sólidos conocimientos en los    lenguajes <span class='paragraph-background'>JavaScript</span> y <span class='paragraph-background'>TypeScript</span>.",
+    "PARAGRAFO_2": "He desarrollado plataformas web con tecnologías <span class='paragraph-background'> frontend</span> como <span class='paragraph-strong'> Angular, React </span> y tecnologías <span class='paragraph-background'> backend</span> como lo son <span class='paragraph-strong'> Node js</span>,  <span class='paragraph-strong'> expressJs</span> y <span class='paragraph-strong'>NestJs</span>, integradas con bases de datos <span class='paragraph-strong'> No sql y Sql </span> como <span class='paragraph-strong'>MongoDB, PostgreSQL mySql</span> e implementando arquitecturas en contenedores <span class='paragraph-strong'> DOCKER y PODMAN</span>.",
+    "PARAGRAFO_3": "A lo largo de mi trayectoria profesional, he adquirido valiosas habilidades en áreas diversas, incluyendo <span class='paragraph-strong'>DevOps y administración de sistemas</span>. Mi pasión por la tecnología y mi espíritu autodidacta me han permitido aprender rápidamente y adaptarme a los cambios constantes en la industria.",
+    "PARAGRAFO_4": "Me motivan los nuevos desafíos y pertenecer a grandes equipos que tengan como objetivo desarrollar productos de calidad. <span class='paragraph-strong'> Soy una persona amante del cambio</span>, <span class='paragraph-strong'>confiable</span> y <span class='paragraph-strong'>disciplinada</span>.",
+    "CONOCEME": "Conóceme!",
+    "HABILIDADES_TECNICAS": "Habilidades técnicas"
+  },
+  "JOBS": {
+    "DESCRIPCION": "Aquí hay algunos proyectos de software en los que he participado",
+    "TRABAJO2": {
+      "DESCRIPCION": "Hemos colaborado con colegas para desarrollar un emocionante proyecto web: un e-commerce de vinos que ofrece una amplia gama de funciones de filtrado. En nuestro sitio, los usuarios pueden explorar diversas categorías de vinos, crear sus propios perfiles de usuario y realizar compras utilizando una integración con la API de Mercado Pago. Además, hemos implementado modelos de administración y ventas que asignan permisos y acciones específicas según el rol de cada usuario en el sistema. Con esta plataforma, buscamos brindar una experiencia completa y personalizada para los amantes del vino que deseen descubrir y adquirir productos de manera cómoda y segura"
+    },
+    "TRABAJO3": {
+      "DESCRIPCION": "Creé un catálogo de películas utilizando la API de TMDb. Esta aplicación permite a los usuarios filtrar películas por nombre y categoría, y al seleccionar una película en particular, pueden acceder a su página de detalles. Implementé un sistema de búsqueda automática altamente eficiente que facilita encontrar películas específicas rápidamente. A través de esta plataforma, los usuarios pueden explorar y descubrir películas de su interés de manera conveniente y disfrutar de una experiencia intuitiva y completa."
+    },
+    "TRABAJO4": {
+      "TITULO": "Página Personal",
+      "DESCRIPCION": "Durante mi participación en el bootcamp Soy Henry, desarrollé un emocionante Proyecto Individual (PI). Se trata de una Single Page Application (SPA) basada en un API de perros. Esta página cuenta con una variedad de características, incluyendo diferentes opciones de filtrado y ordenamiento para facilitar la búsqueda de información específica. Además, se ha implementado una carta de detalles que permite acceder a información detallada sobre cada perro. La función de búsqueda proporciona una forma rápida y eficiente de encontrar perros específicos. También he incorporado un formulario controlado que permite a los usuarios crear nuevos personajes y agregarlos al sistema. Además de estas funcionalidades, existen otras características adicionales que hacen de esta aplicación una experiencia completa y enriquecedora para los usuarios."
+    },
+    "TRABAJO5": {
+      "DESCRIPCION": "Desarrollé una aplicación para control y gestión de registros financieros. Permite realizar operaciones de ingreso o retiro de dinero, muestra las últimas 10 transacciones y registra el balance actual. Además, tiene un historial completo para revisar registros anteriores. Proporciona un control eficiente y una visión clara de la situación financiera. Adicionalmente, la aplicación cuenta con un sistema de inicio de sesión que brinda seguridad y protección de los datos financieros del usuario, garantizando que solo personas autorizadas tengan acceso a la información y funciones de la aplicación."
+    },
+    "TRABAJO6": {
+      "DESCRIPCION": "He creado un portafolio personalizado como base para que cualquier persona pueda mostrar sus trabajos. Es versátil, adaptable y cuenta con secciones para resaltar proyectos, habilidades y contacto. El diseño es moderno y optimizado para dispositivos móviles. Es una plataforma efectiva para exhibir trabajos y captar la atención de empleadores o clientes."
+    }
+  },
+  "RECOMMENDATIONS": {
+    "TITULO": "VISION A FUTURO",
+    "DESCRIPCION": "Como veo mi futuro y el de las tecnologias...",
+    "TESTIMONIO1": {
+      "DESCRIPCION": "Actualmente, me dedico a seguir realizando cursos para mejorar constantemente. En el mundo tecnológico, surgen nuevas herramientas todos los días, lo que me motiva a continuar capacitándome de forma continua. Esta dinámica de aprendizaje constante es algo que disfruto y deseo seguir haciendo a lo largo de mi carrera. Mi enfoque principal se centra en aprender tecnologías para el desarrollo de aplicaciones, así como tecnologías de implementación y automatización para el área de DevOps. Reconozco la importancia de estar al tanto de las últimas tendencias y prácticas en el campo del desarrollo de software, así como en los procesos de implementación y gestión de infraestructura.Continuar ampliando mis conocimientos en estas áreas me permitirá desarrollar soluciones más eficientes y escalables, y me brindará la capacidad de abordar proyectos complejos desde una perspectiva integral.Mi pasión por aprender y mantenerme actualizado me impulsa a perseguir oportunidades de crecimiento en la industria tecnológica. Estoy comprometido/a con mi desarrollo personal y profesional, y estoy emocionado/a por lo que el futuro me depara en términos de nuevas tecnologías y desafíos.",
+      "PROFESION": "Ingeniero de Software"
+    },
+    "TESTIMONIO2": {
+      "DESCRIPCION":"Siempre estoy trabajando en múltiples proyectos, algunos de los cuales pueden no tener despliegues visibles o material audiovisual. Sin embargo, te invito a revisar mi perfil de GitHub, donde constantemente subo mis actualizaciones y avances en mis proyectos.A través de mi perfil en GitHub, puedes explorar mi código y seguir mi progreso en tiempo real. Aunque no todos los proyectos tengan una representación visual directa, el código que subo refleja mi dedicación y compromiso con el desarrollo de software.GitHub es una plataforma invaluable para el control de versiones y la colaboración con otros desarrolladores. Al utilizar GitHub, no solo puedo mantener un historial claro de mis cambios y mejoras en cada proyecto, sino que también puedo aprender de la comunidad y recibir comentarios constructivos. Así que, aunque no todos mis proyectos tengan una presencia visual inmediata, te invito a visitar mi perfil de GitHub para descubrir más sobre mis habilidades y seguir mi progreso en el mundo del desarrollo de software. ",
+      "PROFESION": "Desarrollador de Software, creador de contenido"
+    }
+  },
+  "FOOTER": {
+    "SOCIAL": "SOCIAL",
+    "DESCRIPCION": "Un desarrollador de software, con el único propósito de servir a la comunidad y aprender constantemente.",
+    "CREADO_POR": "Creado por ",
+    "CREADO_CON": "Hecho con"
+  },
+  "CONTACT": {
+    "DESCRIPCION": "Siempre estoy dispuesto a enfrentarme a nuevos desafíos. Cuéntame el tuyo."
+  },
+  "FORM_CONTACT": {
+    "NOMBRE": "Nombre",
+    "EMAIL": "Email",
+    "MENSAJE": "Mensaje",
+    "ENVIAR": "Enviar",
+    "ENVIANDO": "Enviando"
+  },
+  "VALIDATIONS": {
+    "NOMBRE_REQUERIDO": "Nombre es requerido",
+    "EMAIL_REQUERIDO": "Email es requerido",
+    "EMAIL_INVALIDO": "Email no es válido 'example@example.com'",
+    "MENSAJE_REQUERIDO": "El mensaje es requerido",
+    "MENSAJE_LONGITUD_MINIMA": "El mensaje debe contener mínimo 30 caracteres",
+    "MENSAJE_LONGITUD_MAXIMA": "El mensaje debe contener máximo 500 caracteres"
+  },
+  "SUCCESS": {
+    "TITULO": "!Genial! Juntos vamos a crear grandes cosas",
+    "DESCRIPCION": "Tu mensaje ha sido enviado, en breve me pondré en contacto",
+    "CONTINUAR": "Continuar"
+  },
+  "NOT_FOUND": {
+    "TITULO": "Parece que estás perdido. ¿Quizás probar con una página diferente?",
+    "RETORNAR": "Volver al Inicio"
+  }
+}

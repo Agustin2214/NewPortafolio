@@ -1,0 +1,92 @@
+{
+  "GENERAL": {
+    "IDIOMA_INGLES": "English",
+    "IDIOMA_ESPANOL": "Spanish"
+  },
+
+  "HEADER": {
+    "INICIO": "Home",
+    "CONTACTO": "Download CV",
+    "SOBRE_MI": "About me",
+    "RECOMENDACIONES": "Testimonials",
+    "PROYECTOS": "Projects"
+  },
+  "MAIN_VIEW": {
+    "TITULO": "hey, i'm agustin ibañez",
+    "DESCRIPCION": "Full stack developer, with knowledge in DevOps tools"
+  },
+  "ABOUT_ME": {
+    "TITULO": "About me",
+    "DESCRIPCION": "Get to know my technical skills and the values that characterize me.",
+    "PARAGRAFO_1": "I am a fullStack developer with strong knowledge of  <span class='paragraph-background'>JavaScript</span> and <span class='paragraph-background'>TypeScript</span> languages.",
+    "PARAGRAFO_2": "I have developed web platforms using frontend technologies <span class='paragraph-background'>such as Angular, React</span> and backend technologies <span class='paragraph-background'>such as Node.js</span>, <span class='paragraph-strong'>Express.js</span>, and <span class='paragraph-strong'>Nest.js</span>, integrated with <span class='paragraph-strong'>NoSQL and SQL</span> databases like <span class='paragraph-strong'>MongoDB, PostgreSQL, MySQL</span>, and implemented container architectures with <span class='paragraph-strong'>Docker and Podman</span>.",
+    "PARAGRAFO_3": "Throughout my professional career, I have acquired valuable skills in various areas, including <span class='paragraph-strong'>DevOps and system administration</span>. My passion for technology and my self-taught nature have allowed me to learn quickly and adapt to the constant changes in the industry.",
+    "PARAGRAFO_4": "I am motivated by new challenges and belonging to great teams that aim to develop quality products. <span class='paragraph-strong'> I am a person who loves change</span>, <span class='paragraph-strong'> reliable</span>  and  <span class='paragraph-strong'>disciplined</span> .",
+    "CONOCEME": "know me!",
+    "HABILIDADES_TECNICAS": "Technical skills"
+  },
+  "JOBS": {
+    "DESCRIPCION": "Here are some software projects I've been involved in",
+
+    "TRABAJO2": {
+      "DESCRIPCION": "We have collaborated with colleagues to develop an exciting web project: a wine e-commerce platform that offers a wide range of filtering features. On our site, users can explore various wine categories, create their own user profiles, and make purchases using an integration with the Mercado Pago API. Additionally, we have implemented management and sales models that assign specific permissions and actions based on each user's role in the system. With this platform, we aim to provide a comprehensive and personalized experience for wine enthusiasts who want to discover and acquire products in a convenient and secure manner."
+    },
+    "TRABAJO3": {
+      "DESCRIPCION": "I created a movie catalog using the TMDb API. This application allows users to filter movies by name and category, and when selecting a particular movie, they can access its detailed page. I implemented a highly efficient automatic search system that makes it easy to quickly find specific movies. Through this platform, users can conveniently explore and discover movies of their interest and enjoy an intuitive and comprehensive experience."
+    },
+    "TRABAJO4": {
+      "DESCRIPCION": "During my participation in the Soy Henry bootcamp, I developed an exciting Individual Project (IP). It is a Single Page Application (SPA) based on a dog API. This page has a variety of features, including different filtering and sorting options to facilitate the search for specific information. Additionally, a details card has been implemented to access detailed information about each dog. The search function provides a quick and efficient way to find specific dogs. I have also incorporated a controlled form that allows users to create new characters and add them to the system. In addition to these functionalities, there are other additional features that make this application a complete and enriching experience for users."
+    },
+    "TRABAJO5": {
+      "DESCRIPCION": "I developed an application for controlling and managing financial records. It allows users to make deposits or withdrawals, displays the last 10 transactions, and records the current balance. Furthermore, it has a complete history to review previous records. It provides efficient control and a clear overview of the financial situation. Additionally, the application features a login system that provides security and protects the user's financial data, ensuring that only authorized individuals have access to the information and functions of the application."
+    },
+    "TRABAJO6": {
+      "DESCRIPCION": "I have created a personalized portfolio template that anyone can use to showcase their work. It is versatile, adaptable, and includes sections to highlight projects, skills, and contact information. The design is modern and optimized for mobile devices. It is an effective platform for displaying work and capturing the attention of employers or clients."
+    }
+  },
+  "RECOMMENDATIONS": {
+    "TITULO": "FUTURE VISION",
+    "DESCRIPCION": "How I see my future and that of technologies",
+    "TESTIMONIO1": {
+      "DESCRIPCION": "I am always working on multiple projects, some of which may not have visible deployments or audiovisual materials. However, I invite you to check out my GitHub profile, where I consistently upload my updates and progress on my projects. Through my GitHub profile, you can explore my code and follow my real-time progress. While not all projects may have a direct visual representation, the code I upload reflects my dedication and commitment to software development. GitHub is an invaluable platform for version control and collaboration with other developers. By utilizing GitHub, not only can I maintain a clear history of my changes and improvements in each project, but I can also learn from the community and receive constructive feedback. So, even though not all of my projects may have an immediate visual presence, I invite you to visit my GitHub profile to discover more about my skills and follow my progress in the world of software development",
+      "PROFESION": "Software engineer"
+    },
+    "TESTIMONIO2": {
+      "DESCRIPCION": "Currently, I am dedicated to continuously taking courses to improve myself. In the technology world, new tools emerge every day, which motivates me to continue my continuous learning journey. This dynamic of constant learning is something I enjoy and wish to continue throughout my career. My main focus is on learning technologies for application development, as well as implementation and automation technologies for the DevOps field. I recognize the importance of staying up to date with the latest trends and practices in the software development field, as well as in deployment processes and infrastructure management.Continuing to expand my knowledge in these areas will allow me to develop more efficient and scalable solutions and provide me with the ability to tackle complex projects from a comprehensive perspective. My passion for learning and staying updated drives me to pursue growth opportunities in the technology industry. I am committed to my personal and professional development and I am excited about what the future holds in terms of new technologies and challenges.",
+      "PROFESION": "Software developer, content creator"
+    }
+  },
+  "FOOTER": {
+    "SOCIAL": "SOCIAL",
+    "DESCRIPCION": "A software developer, with the sole purpose of serving the community and constantly learning.",
+    "CREADO_POR": "Created by",
+    "CREADO_CON": "Made with"
+  },
+  "CONTACT": {
+    "DESCRIPCION": "I am always ready to face new challenges. Tell me yours."
+  },
+  "FORM_CONTACT": {
+    "NOMBRE": "Name",
+    "EMAIL": "Email",
+    "MENSAJE": "Message",
+    "ENVIAR": "Send",
+    "ENVIANDO": "Sending"
+  },
+  "VALIDATIONS": {
+    "NOMBRE_REQUERIDO": "Name is required",
+    "EMAIL_REQUERIDO": "Email is required",
+    "EMAIL_INVALIDO": "Email is not valid 'example@example.com'",
+    "MENSAJE_REQUERIDO": "The message is required",
+    "MENSAJE_LONGITUD_MINIMA": "The message must contain at least 30 character",
+    "MENSAJE_LONGITUD_MAXIMA": "The message must contain a maximum of 500 characters"
+  },
+  "SUCCESS": {
+    "TITULO": "!Cool! Together we will create great things",
+    "DESCRIPCION": "Your message has been sent, I will contact you shortly",
+    "CONTINUAR": "Continue"
+  },
+  "NOT_FOUND": {
+    "TITULO": "It seems that you are lost. Maybe try a different page?",
+    "RETORNAR": "Return home"
+  }
+}

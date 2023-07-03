@@ -1,0 +1,38 @@
+@import "./src/shared.scss";
+
+.testimony {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 2rem auto;
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.testimony__content {
+  font-size: 1.2rem;
+  line-height: 1.7;
+  color: #666;
+  margin: 2rem 0;
+  margin-top: -40px;
+}
+
+
+
+//phone
+@media print, screen and (max-width: $max-screen-phone) {
+
+}
+
+//tablet
+@media print,
+  screen and (min-width: $min-screen-tablet) and (max-width: $max-screen-tablet) {
+  .description {
+    font-size: 1.1rem;
+    font-weight: initial;
+  }
+}
+
+//desktop
+@media print, screen and (min-width: $min-screen-desktop) {
+}
