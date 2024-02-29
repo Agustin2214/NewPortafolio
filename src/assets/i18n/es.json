@@ -11,8 +11,8 @@
     "PROYECTOS": "Proyectos"
   },
   "MAIN_VIEW": {
-    "TITULO": "Hey, Soy Agustin Ibañez",
-    "DESCRIPCION": "Desarrollador Full stack, con conomientos en herramientas de DevOps"
+    "TITULO": "Hola, Soy Agustin Ibañez",
+    "DESCRIPCION": "Desarrollador Full stack con orientación al backend"
   },
   "ABOUT_ME": {
     "TITULO": "Sobre mí",
@@ -33,11 +33,7 @@
       "DESCRIPCION": "Creé un catálogo de películas utilizando la API de TMDb. Esta aplicación permite a los usuarios filtrar películas por nombre y categoría, y al seleccionar una película en particular, pueden acceder a su página de detalles. Implementé un sistema de búsqueda automática altamente eficiente que facilita encontrar películas específicas rápidamente. A través de esta plataforma, los usuarios pueden explorar y descubrir películas de su interés de manera conveniente y disfrutar de una experiencia intuitiva y completa."
     },
     "TRABAJO4": {
-      "TITULO": "Página Personal",
-      "DESCRIPCION": "Durante mi participación en el bootcamp Soy Henry, desarrollé un emocionante Proyecto Individual (PI). Se trata de una Single Page Application (SPA) basada en un API de perros. Esta página cuenta con una variedad de características, incluyendo diferentes opciones de filtrado y ordenamiento para facilitar la búsqueda de información específica. Además, se ha implementado una carta de detalles que permite acceder a información detallada sobre cada perro. La función de búsqueda proporciona una forma rápida y eficiente de encontrar perros específicos. También he incorporado un formulario controlado que permite a los usuarios crear nuevos personajes y agregarlos al sistema. Además de estas funcionalidades, existen otras características adicionales que hacen de esta aplicación una experiencia completa y enriquecedora para los usuarios."
-    },
-    "TRABAJO5": {
-      "DESCRIPCION": "Desarrollé una aplicación para control y gestión de registros financieros. Permite realizar operaciones de ingreso o retiro de dinero, muestra las últimas 10 transacciones y registra el balance actual. Además, tiene un historial completo para revisar registros anteriores. Proporciona un control eficiente y una visión clara de la situación financiera. Adicionalmente, la aplicación cuenta con un sistema de inicio de sesión que brinda seguridad y protección de los datos financieros del usuario, garantizando que solo personas autorizadas tengan acceso a la información y funciones de la aplicación."
+      "DESCRIPCION": "Daiana es un avanzado chatbot diseñado para conectarse y analizar una amplia variedad de recursos, incluyendo documentos en formatos como PDF, TXT y JSON, así como videos, audios, bases de datos y enlaces a páginas web y videos de YouTube. Utilizando inteligencia artificial, Daiana aprende el contenido de estos recursos para poder ofrecer respuestas coherentes y precisas cuando se le consulta sobre ellos. Su capacidad para comprender y procesar información de múltiples fuentes la convierte en una herramienta poderosa para la extracción de conocimientos y la asistencia en diversas áreas.Daiana también puede crear equipos, los cuales pueden almacenar varios bots con diferentes tipos de recursos. Ofrece una vista empresarial, permitiendo al propietario asignar administradores para cada equipo. Estos administradores pueden luego designar creadores, quienes tienen la autoridad para crear bots únicamente dentro de su equipo designado. Además, Daiana permite a los usuarios especificar permisos, determinando quién puede ver o acceder a cada bot creado."
     },
     "TRABAJO6": {
       "DESCRIPCION": "He creado un portafolio personalizado como base para que cualquier persona pueda mostrar sus trabajos. Es versátil, adaptable y cuenta con secciones para resaltar proyectos, habilidades y contacto. El diseño es moderno y optimizado para dispositivos móviles. Es una plataforma efectiva para exhibir trabajos y captar la atención de empleadores o clientes."

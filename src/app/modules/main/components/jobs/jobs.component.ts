@@ -16,6 +16,14 @@ export class JobsComponent implements OnInit {
   ngOnInit(): void {
     this.jobs = [
       {
+        image: `${this.path}/vuelos-sabre.png`,
+        title: 'DAIANA',
+        description: 'JOBS.TRABAJO4.DESCRIPCION',
+        video: 'https://www.youtube.com/watch?v=S4q2FSLmNVY',
+        videoId: 'S4q2FSLmNVY',
+        skills: ['Python-Flask','Node-Express','NextJs','Supabase','Langchain','OpenAI','Postgres','Redux','TypeScript','Tailwind CSS'],
+      },
+      {
         image: `${this.path}/mochileros.jpg`,
         title: 'VINOTECA',
         description: 'JOBS.TRABAJO2.DESCRIPCION',
@@ -30,22 +38,6 @@ export class JobsComponent implements OnInit {
         video: 'https://www.youtube.com/watch?v=ollRQM_qdTc',
         videoId: 'ollRQM_qdTc',
         skills: ['JavaScript', 'React',  'Git', 'Html/Css','Redux','Api TMBD'],
-      },
-      {
-        image: `${this.path}/vuelos-sabre.png`,
-        title: 'API DOGS',
-        description: 'JOBS.TRABAJO4.DESCRIPCION',
-        video: 'https://www.youtube.com/watch?v=ZMth2NBIdgk',
-        videoId: 'ZMth2NBIdgk',
-        skills: ['JavaScript', 'React-Redux', 'PostgrSQL', 'Node js', 'Express', 'Git', 'Html/Css'],
-      },
-      {
-        image: `${this.path}/vuelos-sabre.png`,
-        title: 'ALKEMY BALANCE',
-        description: 'JOBS.TRABAJO5.DESCRIPCION',
-        video: 'https://www.youtube.com/watch?v=DtVTVMSFw3E',
-        videoId: 'DtVTVMSFw3E',
-        skills: ['JavaScript', 'React-Redux', 'PostgrSQL', 'Node js', 'Express', 'Git', 'Html/Css','bootstrap'],
       },
       {
         image: `${this.path}/vuelos-sabre.png`,

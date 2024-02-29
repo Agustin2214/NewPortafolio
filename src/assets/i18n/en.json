@@ -13,7 +13,7 @@
   },
   "MAIN_VIEW": {
     "TITULO": "hey, i'm agustin ibañez",
-    "DESCRIPCION": "Full stack developer, with knowledge in DevOps tools"
+    "DESCRIPCION": "Full stack developer with a focus on backend"
   },
   "ABOUT_ME": {
     "TITULO": "About me",
@@ -35,7 +35,7 @@
       "DESCRIPCION": "I created a movie catalog using the TMDb API. This application allows users to filter movies by name and category, and when selecting a particular movie, they can access its detailed page. I implemented a highly efficient automatic search system that makes it easy to quickly find specific movies. Through this platform, users can conveniently explore and discover movies of their interest and enjoy an intuitive and comprehensive experience."
     },
     "TRABAJO4": {
-      "DESCRIPCION": "During my participation in the Soy Henry bootcamp, I developed an exciting Individual Project (IP). It is a Single Page Application (SPA) based on a dog API. This page has a variety of features, including different filtering and sorting options to facilitate the search for specific information. Additionally, a details card has been implemented to access detailed information about each dog. The search function provides a quick and efficient way to find specific dogs. I have also incorporated a controlled form that allows users to create new characters and add them to the system. In addition to these functionalities, there are other additional features that make this application a complete and enriching experience for users."
+      "DESCRIPCION": "Daiana is an advanced chatbot designed to connect and analyze a wide variety of resources, including documents in formats such as PDF, TXT, and JSON, as well as videos, audios, databases, and links to web pages and YouTube videos. Using artificial intelligence, Daiana learns the content of these resources to provide coherent and accurate responses when queried about them. Its ability to understand and process information from multiple sources makes it a powerful tool for knowledge extraction and assistance in various areas. Daiana can also create teams, each capable of storing multiple bots with different types of resources. It offers an enterprise view, allowing the owner to assign admins to each team. These admins can then appoint creators, who have the authority to create bots solely within their designated team. Additionally, Daiana enables users to specify permissions, determining who can view or access each created bot."
     },
     "TRABAJO5": {
       "DESCRIPCION": "I developed an application for controlling and managing financial records. It allows users to make deposits or withdrawals, displays the last 10 transactions, and records the current balance. Furthermore, it has a complete history to review previous records. It provides efficient control and a clear overview of the financial situation. Additionally, the application features a login system that provides security and protects the user's financial data, ensuring that only authorized individuals have access to the information and functions of the application."
